@@ -1,0 +1,20 @@
+--Tipografía
+ - ROBOTO
+
+--Paleta de colores
+	#CBF7ED (Color más claro verde claro)
+	#9CEAEF (Color verde/celeste claro)
+	#FFC0CB (Color rosado)
+	#048A81 (Verde oscuro)
+	#D3D3D3 (Gris claro)
+
+-- Reparto
+Todos  Página Principal
+Andrés Página Hombre
+Carlos Página Mujer
+Mathew Página Infantil
+Adiel  Página Ofertas
+Victor Página Contacto
+Ricardo Página Nosotros
+Wuilliams Página Carrito
+Wuilliams Página Accesorios
